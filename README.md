@@ -4,7 +4,7 @@ Account dropdown → My Security Credentials \
 Multi-Factor Authentication → Activate MFA \
 Virtual MFA Device \
 Connect Device to Account using QR Code \
-Test MFA by logging out & logging back in \
+Test MFA by logging out & logging back in
 
 
 
