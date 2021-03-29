@@ -3,7 +3,8 @@
 ![image](https://user-images.githubusercontent.com/80132085/112902887-ce06d780-90b4-11eb-8d48-1cadbfc3cf66.png)\
 Account dropdown → My Security Credentials \
 
-![image](https://user-images.githubusercontent.com/80132085/112903337-5dac8600-90b5-11eb-9073-9a445ca257c1.png)
+\
+![image](https://user-images.githubusercontent.com/80132085/112903337-5dac8600-90b5-11eb-9073-9a445ca257c1.png) \
 AWS IAM Credentials tab → scroll down to Multi-Factor Authentication → Assign MFA device \
 Virtual MFA Device \
 Connect Device to Account using QR Code \
