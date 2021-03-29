@@ -1,7 +1,7 @@
 # Multi-Factor-Authentication
 
 ![image](https://user-images.githubusercontent.com/80132085/112902887-ce06d780-90b4-11eb-8d48-1cadbfc3cf66.png)\
-Account dropdown → My Security Credentials \
+Account dropdown → My Security Credentials 
 
 \
 ![image](https://user-images.githubusercontent.com/80132085/112903469-8b91ca80-90b5-11eb-91d3-6b1917b40b0a.png) \
