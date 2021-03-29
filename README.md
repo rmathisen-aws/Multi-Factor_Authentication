@@ -1,6 +1,6 @@
 # Multi-Factor-Authentication
 
-![image](https://user-images.githubusercontent.com/80132085/112902887-ce06d780-90b4-11eb-8d48-1cadbfc3cf66.png)
+![image](https://user-images.githubusercontent.com/80132085/112902887-ce06d780-90b4-11eb-8d48-1cadbfc3cf66.png)\
 Account dropdown → My Security Credentials \
 Multi-Factor Authentication → Activate MFA \
 Virtual MFA Device \
