@@ -5,6 +5,7 @@ Account dropdown → My Security Credentials
 
 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/80132085/112903469-8b91ca80-90b5-11eb-91d3-6b1917b40b0a.png" width="672.75" height="210.75"> \
+![image](https://user-images.githubusercontent.com/80132085/112923487-65cbec00-90dc-11eb-8b2a-3d042117b1c2.png)
 AWS IAM Credentials tab → scroll down to Multi-Factor Authentication → Assign MFA device
 
 \
