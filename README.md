@@ -9,6 +9,9 @@ AWS IAM Credentials tab → scroll down to Multi-Factor Authentication → Assig
 
 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/80132085/112923235-eb9b6780-90db-11eb-8875-3c1c0aa5fa1e.png" width="540" height="318"> \
-Virtual MFA Device \
+Virtual MFA Device
+
+\
+![image](https://user-images.githubusercontent.com/80132085/112923714-c4916580-90dc-11eb-92af-2ef80c2d1022.png) \
 Connect Device to Account using QR Code \
 Test MFA by logging out & logging back in
