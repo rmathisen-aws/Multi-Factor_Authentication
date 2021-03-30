@@ -13,5 +13,7 @@ Virtual MFA Device
 
 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/80132085/112923714-c4916580-90dc-11eb-92af-2ef80c2d1022.png" width="538.5" height="549.75"> \
-Connect Device to Account using QR Code \
+Connect Device to Account using QR Code
+
+\
 Test MFA by logging out & logging back in
